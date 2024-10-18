@@ -1,5 +1,6 @@
 <h1 align="center">Yo I'm Sauzxa</h1>
 <h3 align="center">A passionate software engineer from Algeria</h3>
+<br/>
 <p>I'm very curious about different IT and tech fields, especially development and cybersecurity.
   I'm trying to learn new skills about these fields every day and gain experience in them.</p>
 
@@ -7,7 +8,7 @@
 
 -  currently i'm learning **Flutter** and advenced **React topics**
 
-- 📫 How to reach me **feraouf91@gmail.com**
+-  How to reach me : **feraouf91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
