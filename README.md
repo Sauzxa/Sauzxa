@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sauzxa</h1>
+<h1 align="center">Yo I'm Sauzxa</h1>
 <h3 align="center">A passionate software engineer from Algeria</h3>
+<p>I'm very curious about different IT and tech fields, especially development and cybersecurity.
+  I'm trying to learn new skills about these fields every day and gain experience in them.</p>
 
 
 
-- 🌱 I’m currently learning **Flutter**
+-  currently i'm learning **Flutter** and advenced **React topics**
 
 - 📫 How to reach me **feraouf91@gmail.com**
 
