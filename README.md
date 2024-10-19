@@ -1,5 +1,13 @@
 <h1 align="center">Yo I'm Sauzxa</h1>
 <h3 align="center">A passionate software engineer from Algeria</h3>
+<h3><span>>MERN stack developer</span> 
+ <div>
+   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB" width="10" height="10"/>
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="10" height="10"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="10" height="10"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="10" height="10"/> 
+ </div>
+</h3>
 <br/>
 <p>I'm very curious about different IT and tech fields, especially development and cybersecurity.
   I'm trying to learn new skills about these fields every day and gain experience in them.</p>
