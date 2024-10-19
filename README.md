@@ -1,12 +1,10 @@
 <h1 align="center">Yo I'm Sauzxa</h1>
 <h3 align="center">A passionate software engineer from Algeria</h3>
-<h3 text-align="center"><span>MERN stack developer</span> 
- 
-   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB" width="20" height="20"/>
+<h3 align="center">MERN stack developer
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="20" height="20"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="20" height="20"/> 
-
 </h3>
 <br/>
 <p>I'm very curious about different IT and tech fields, especially development and cybersecurity.
