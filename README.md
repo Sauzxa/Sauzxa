@@ -1,5 +1,5 @@
 <h1 align="center">Yo I'm Sauzxa</h1>
-<h3 align="center">A passionate software engineer from Algeria</h3>
+<h3 align="center">A passionate software Developer from Algeria</h3>
 <h3 align="center">MERN stack developer(in training)
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="30" height="30"/> 
