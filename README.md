@@ -1,6 +1,6 @@
 <h1 align="center">Yo I'm Sauzxa</h1>
 <h2 align="center">A passionate software Developer from Algeria</h2>
--  How to reach me : **feraouf91@gmail.com**
+-  How to reach me : *feraouf91@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
