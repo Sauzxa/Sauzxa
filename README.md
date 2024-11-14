@@ -1,19 +1,5 @@
 <h1 align="center">Yo I'm Sauzxa</h1>
-<h3 align="center">A passionate software Developer from Algeria</h3>
-<h3 align="center">MERN stack developer(in training)
- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="30" height="30"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="30" height="30"/> 
-</h3>
-<br/>
-<p>I'm very curious about different IT and tech fields, especially development and cybersecurity.
-  I'm trying to learn new skills about these fields every day and gain experience in them.</p>
-
-
-
--  currently i'm learning **Flutter** and advenced **React topics**
-
+<h2 align="center">A passionate software Developer from Algeria</h2>
 -  How to reach me : **feraouf91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
