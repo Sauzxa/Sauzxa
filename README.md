@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Sauzxa</h1>
-How to reach me : 'feraouf91@gmail.com'
+<p>📫How to reach me : 'feraouf91@gmail.com'</p>
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
