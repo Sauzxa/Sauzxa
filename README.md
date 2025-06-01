@@ -1,4 +1,4 @@
-# Hello, I'm FERGUENE Raouf <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, I'm FERGUENE Raouf 
 
 #### I'm a Computer Science student at USTHB, Artificial Intelligence passionate and Web/Mobile Developer.
 
