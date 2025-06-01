@@ -33,6 +33,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="#"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="Express.js" width="40" height="40"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
+  <a href="#"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40"/></a>
 </p>
 
 ### 🗄 Databases
@@ -42,8 +43,11 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
 
-### 🔧 Tools & Platforms
+### 🧰 Tools & Platforms
 <p align="left">
   <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
+  <a href="#"><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="#"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" alt="Android Studio" width="40" height="40"/></a>
+  <a href="#"><img src="https://icon.icepanel.io/Technology/svg/Android.svg" alt="Android" width="40" height="40"/></a>
 </p>
