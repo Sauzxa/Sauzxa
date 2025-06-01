@@ -34,6 +34,7 @@
   <a href="#"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="Express.js" width="40" height="40"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
   <a href="#"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40"/></a>
+  <a href="#"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" alt="Spring" width="40" height="40"/></a>
 </p>
 
 ### 🗄 Databases
