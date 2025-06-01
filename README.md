@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools :
 
 ### 👨‍💻 Languages
 <p align="left">
