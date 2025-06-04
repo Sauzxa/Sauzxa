@@ -1,6 +1,6 @@
-# Hello, I'm FERGUENE Raouf 
+FERGUENE Raouf 
 
-#### I'm a Computer Science student at USTHB, Artificial Intelligence passionate and Web/Mobile Developer.
+#### Computer Science student at USTHB, Artificial Intelligence passionate and Web/Mobile Developer.
 
 ---
 
